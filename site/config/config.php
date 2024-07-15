@@ -9,4 +9,11 @@
  */
 return [
     'debug' => true,
+    'panel' => [
+        'install' => true
+    ],
+    'url' => [
+        'https://website-mvh.vercel.app',
+        'http://localhost:8080'
+        ]
 ];
