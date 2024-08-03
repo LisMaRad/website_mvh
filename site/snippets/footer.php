@@ -14,7 +14,6 @@
   <footer class="footer">
     <div class="grid">
       <div class="column" style="--columns: 8">
-        <a href="https://instagram.com/mv_hellmonsoedt" class="button">Follow me on Instagram</a>
         <h2><a href="https://getkirby.com">Made with Kirby</a></h2>
         <p>
           Kirby: the file-based CMS that adapts to any project, loved by developers and editors alike
